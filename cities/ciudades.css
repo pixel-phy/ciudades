@@ -1,0 +1,20 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 500px;
+    position: center;
+}
+
+.introduccion {
+    text-align: justify;
+    color: lightgray;
+    background-color: black;
+}

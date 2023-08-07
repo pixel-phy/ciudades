@@ -1,0 +1,21 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color:white;
+    background-color: black;
+}
+.introduccion {
+    color: lightgray;
+    font-size: 18px;
+    background-color: black;
+}
+.ciudad {
+    text-decoration: none;
+}
+.ciudad:hover {
+    color:yellow;
+}

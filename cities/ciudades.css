@@ -3,7 +3,7 @@
 }
 h1 {
     font-size: 28px;
-    color: white;
+    color: black;
     font-weight: bold;
     text-align: center;
 }
@@ -15,6 +15,6 @@ img {
 
 .introduccion {
     text-align: justify;
-    color: lightgray;
-    background-color: black;
+    color: black;
+    background-color: lightgray;
 }
